@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## WeeNet Privacy Policy
+# Owner and Data Controller: 
+Sangiorgi Srl, Via Giovanni Falcone 3, Militello in vai di Catania(CT), VAT: IT05494810871
+email : alessandrosangiorgi@sangiorgisrl.com
+# Personal Data collected
+## Advertising
+Admob : Personal Data: Cookies; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); Usage Data.
+		link to privacy policy : <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">Privacy Policy</a> 
+## Analytics
+Firebase : WeeNet, may also collect app usage information to create aggregated anonymous data and to use such data for improving WeeNet services. WeeNet uses Firebase Analytics for gathering ANONYMOUS app-usage information. In addition, we could collect your MAC address anonymosly to improve devices detection. Please refer to Firebase Analytics Privacy Policy for further information.  <a href="https://firebase.google.com/policies/analytics" target="_blank" rel="noopener">Privacy Policy</a>
+## Other third parts service
+M-Lab: WeeNet use M-Lab services to perform speedtest. You can find more about datas collected to M-Lab privacy policy. <a href="https://www.measurementlab.net/privacy/" target="_blank" rel="noopener">Privacy Policy</a>
+IpInfoDB : WeeNet use IpInfoDB services to retrieve IPs countries for a features like traceroute. To understand which datas are collected see the Privacy Policy for further information.  <a href="https://www.ipinfodb.com/privacy-policy" target="_blank" rel="noopener">Privacy Policy</a>
 
-You can use the [editor on GitHub](https://github.com/fulvius31/fulvius31.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fulvius31/fulvius31.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
